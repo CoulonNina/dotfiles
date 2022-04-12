@@ -52,3 +52,7 @@
 
 [init]
   defaultBranch = master
+
+[user]
+  email = ninacoulon@ymail.com
+  name = Nina Coulon
